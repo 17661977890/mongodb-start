@@ -7,7 +7,7 @@
 * [w3cschool](https://www.w3cschool.cn/mongodb/mongodb-intro.html)
 
 SQL术语|mongodb术语|解释说明
----|:---:|---:
+:---:|:---:|:---:
 database|database|数据库
 table|collection|数据库表/集合
 row|document|数据记录行/文档
